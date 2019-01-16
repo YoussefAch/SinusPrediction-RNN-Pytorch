@@ -12,4 +12,4 @@ In this notebook we will try to predict future values of the periodic function s
 
 ## Results
 
-![image](https://user-images.githubusercontent.com/45148200/50423419-40910900-0855-11e9-914f-e0cf78)
+![image](https://github.com/YoussefAch/SinusPrediction-RNN-Pytorch/blob/master/result.png)
